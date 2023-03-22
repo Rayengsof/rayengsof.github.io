@@ -1,4 +1,6 @@
 .navbar-expand-md .nav-top{
-    background-color: black;
+    background: rgb(72,66,173);
+    background: linear-gradient(90deg, rgba(72,66,173,1) 0%, rgba(41,73,163,1) 64%, rgba(36,149,172,1) 100%);
+    
 }
 
