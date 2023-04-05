@@ -5,6 +5,8 @@
 }
 
 .fixed-top{
-    background-color: blue;
+    background-color: #0093E9;
+    background-image: linear-gradient(0deg, #0093E9 31%, #80D0C7 100%);
+
 }
 
